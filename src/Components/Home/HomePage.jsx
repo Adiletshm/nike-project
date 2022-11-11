@@ -18,7 +18,7 @@ const HomePage = () => {
         <p>
           Everything to give all those Energy Matchers, Rule Breakers, and more.
         </p>
-        <button class="button-89" role="button">
+        <button className="button-89">
           <NavLink to="/list">SHOP</NavLink>
         </button>
         <h2>Nike Fleece</h2>
@@ -34,7 +34,7 @@ const HomePage = () => {
           <br />
           can be mixed and matched for a look as iconic as you.
         </p>
-        <button class="button-89" role="button">
+        <button className="button-89">
           <NavLink to="/list">SHOP ALL FLEECE</NavLink>
         </button>
         <video
@@ -58,7 +58,7 @@ const HomePage = () => {
         </p>
         <h1>FOOTBALL IS NEVER DONE</h1>
         <p>The 2022 England National Team Collection.</p>
-        <button class="button-89" role="button">
+        <button className="button-89">
           <NavLink to="/list">SHOP</NavLink>
         </button>
         <video
